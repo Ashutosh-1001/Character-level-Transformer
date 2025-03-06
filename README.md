@@ -3,6 +3,7 @@ This project implements a Transformer-based character-level language model in Py
 
 
  Features
+ 
 ✅ Transformer from scratch – Implements self-attention, multi-head attention, and feed-forward layers.
 
 ✅ Character-level tokenization – Processes text without predefined word boundaries.
